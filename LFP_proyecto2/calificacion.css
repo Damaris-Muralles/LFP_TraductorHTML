@@ -1,0 +1,133 @@
+#contenedor1{
+width: 800px;
+height: 500px;
+background-color: rgb(0, 104, 241);
+position:absolute;
+left: 50px;
+top: 100px;
+}
+#contenedor2{
+width: 400px;
+height: 350px;
+background-color: rgb(0, 213, 241);
+position:absolute;
+left: 50px;
+top: 100px;
+}
+#etiqueta1{
+width: 200px;
+height: 10px;
+color: rgb(17, 0, 255);
+position:absolute;
+left: 50px;
+top: 25px;
+}
+#texto1{
+width: 100px;
+height: 25px;
+position:absolute;
+left: 50px;
+top: 50px;
+}
+#etiqueta2{
+width: 200px;
+height: 10px;
+color: rgb(17, 0, 255);
+position:absolute;
+left: 50px;
+top: 100px;
+}
+#texto2{
+width: 100px;
+height: 25px;
+position:absolute;
+left: 50px;
+top: 125px;
+}
+#etiqueta3{
+width: 200px;
+height: 10px;
+color: rgb(17, 0, 255);
+position:absolute;
+left: 50px;
+top: 175px;
+}
+#clave1{
+width: 100px;
+height: 25px;
+position:absolute;
+left: 50px;
+top: 200px;
+}
+#contenedor3{
+width: 250px;
+height: 350px;
+background-color: rgb(241, 0, 221);
+position:absolute;
+left: 500px;
+top: 100px;
+}
+#etiqueta4{
+width: 200px;
+height: 10px;
+color: rgb(17, 0, 255);
+position:absolute;
+left: 50px;
+top: 25px;
+}
+#contenedor4{
+position:absolute;
+left: 50px;
+top: 50px;
+width: 100px;
+height: 25px;
+}
+#radio1{
+width: 100px;
+height: 25px;
+}
+#radio2{
+width: 100px;
+height: 25px;
+}
+#radio3{
+width: 100px;
+height: 25px;
+}
+#etiqueta5{
+width: 200px;
+height: 10px;
+color: rgb(17, 0, 255);
+position:absolute;
+left: 50px;
+top: 100px;
+}
+#contenedor5{
+position:absolute;
+left: 50px;
+top: 125px;
+width: 100px;
+height: 25px;
+}
+#checkbox1{
+width: 100px;
+height: 25px;
+}
+#checkbox2{
+width: 100px;
+height: 25px;
+}
+#areatexto1{
+width: 150px;
+height: 150px;
+position:absolute;
+left: 50px;
+top: 175px;
+}
+#boton1{
+width: 100px;
+height: 25px;
+position:absolute;
+left: 400px;
+top: 25px;
+}
